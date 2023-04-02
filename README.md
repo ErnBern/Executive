@@ -13,5 +13,4 @@ Executive uses the Worn Off Keys Command Handler, it was picked to speed up deve
 * Executive comes with a lot of features so feel free to test it out
 
 # Issues
-Executive does not have the best command handling, so please keep in mind you will have to add some in order for it to be stable. <br>
-The main issue is the clear command, I may have fixed it a bit but it still is a little unstable.
+Executive does not have the best command handling, so please keep in mind you will have to add some in order for it to be stable. The main issue is the clear command, I may have fixed it a bit but it still is a little unstable.
