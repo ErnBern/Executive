@@ -1,5 +1,5 @@
 # Executive
-Executive uses the Worn Off Keys Command Handler, it was picked to speed up development time. Please note that is has been modified <br>
+Executive is a multi-purpose discord bot, it comes with moderation, music, and game capabilites. 
 
 # About Executive
 * Executive is built in Discord.js v13
@@ -11,6 +11,7 @@ Executive uses the Worn Off Keys Command Handler, it was picked to speed up deve
 * Executive was not designed to be open sourced, hence the code has no comments
 * I was learning JavaScript while making Executive so the code can be sloppy
 * Executive comes with a lot of features so feel free to test it out
+* Uses a modified version of the Worn Off Keys command handler
 
 # Issues
 Executive does not have the best command handling, so please keep in mind you will have to add some in order for it to be stable. The main issue is the clear command, I may have fixed it a bit but it still is a little unstable.
